@@ -1,0 +1,17 @@
+# Set default behavior to automatically normalize line endings
+* text=auto
+
+# Specify text files
+*.py text
+*.md text
+*.txt text
+
+# Specify binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.h5 binary
+*.pkl binary
+
+# Handle Jupyter Notebooks
+*.ipynb text
