@@ -86,7 +86,7 @@ streamlit run app.py
 ### Step 3: Object Summarization
 
 - Each displayed segmented object can be summarized by clicking the button under each image. 
-- Each segmented object image is captioned using the Salesforce Blip Model (Replicate API).
+- Each segmented object image is captioned using the Salesforce Blip Model.
 - The model generates a caption or description for each object image.
 
 ### Step 4: Report Generation
