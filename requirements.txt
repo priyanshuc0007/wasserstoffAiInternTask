@@ -1,0 +1,14 @@
+streamlit
+pillow
+opencv-python
+tensorflow
+tensorflow_hub
+matplotlib
+pandas
+requests
+numpy
+python-docx
+pytesseract
+torch
+transformers
+dotenv
